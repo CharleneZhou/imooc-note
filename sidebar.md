@@ -10,7 +10,7 @@
 
   - [实战演练1](chapters/重绘与回流/实战演练1.md)
 
-  - [实战演练2](chapters/重绘与回流/实战演练2.md)
+  - [实战演练2-opacity](chapters/重绘与回流/实战演练2-opacity.md)
 
   - [实战演练3](chapters/重绘与回流/实战演练3.md)
 
