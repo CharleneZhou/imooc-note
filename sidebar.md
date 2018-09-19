@@ -8,6 +8,16 @@
 
   - [避免重绘回流的案例](chapters/重绘与回流/避免重绘回流的案例.md)
 
+  - [实战演练1](chapters/重绘与回流/实战演练1.md)
+
+  - [实战演练2](chapters/重绘与回流/实战演练2.md)
+
+  - [实战演练3](chapters/重绘与回流/实战演练3.md)
+
+  - [实战演练4](chapters/重绘与回流/实战演练4.md)
+
+  - [实战演练5-table布局](chapters/重绘与回流/实战演练5-table布局.md)
+
 - [开发](chapters/开发/README.md)
 
   - [缓存方案](chapters/开发/缓存方案.md)
